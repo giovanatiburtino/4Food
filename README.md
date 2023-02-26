@@ -3,7 +3,7 @@
 Landing Page
 
 ## 💻 Layout
-![giovanatiburtino github io_api-weather_](https://user-images.githubusercontent.com/111311581/221433874-4927cfb8-7322-49ef-946a-bfbb18f48869.png)
+![giovanatiburtino github io_4Food_ (1)](https://user-images.githubusercontent.com/111311581/221438114-65c27205-bbd5-4f1d-9ead-8659ea7ae013.png)
 
 ## 📺 Demonstração
 [Link do projeto](https://giovanatiburtino.github.io/4Food/)
