@@ -6,7 +6,7 @@ Landing Page
 ![giovanatiburtino github io_api-weather_](https://user-images.githubusercontent.com/111311581/221433874-4927cfb8-7322-49ef-946a-bfbb18f48869.png)
 
 ## 📺 Demonstração
-[Link do projeto](https://giovanatiburtino.github.io/api-weather/)
+[Link do projeto](https://giovanatiburtino.github.io/4Food/)
 
 ## 💿 Como rodar este projeto?
 Para instalar o projeto, siga estas etapas:
