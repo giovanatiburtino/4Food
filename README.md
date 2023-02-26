@@ -16,7 +16,7 @@ Para instalar o projeto, siga estas etapas:
 git clone https://github.com/giovanatiburtino/4Food.git
 
 # Acesse a pasta do projeto no seu terminal
-cd 4food
+cd 4Food
 
 # Abra a aplicação no navegador
 
